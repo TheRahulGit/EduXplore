@@ -8,7 +8,7 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "info@eduxplore.com",
+    details: "rahul.leox@gmail.com",
   },
   {
     icon: "BiWorld",
@@ -21,7 +21,7 @@ const contactDetails = [
     icon: "IoCall",
     heading: "Call us",
     description: "Mon - Fri (9:00 AM - 4:00 PM)",
-    details: "+91 00000 00000",
+    details: "+91 62397 75446",
   },
 ]
 
